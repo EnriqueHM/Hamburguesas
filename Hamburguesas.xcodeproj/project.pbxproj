@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1517EDA01C5F10FE00101819 /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15F573FC1C5DE41200C884BF /* Datos.swift */; };
 		15F573EB1C5DE3EF00C884BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15F573EA1C5DE3EF00C884BF /* AppDelegate.swift */; };
 		15F573ED1C5DE3EF00C884BF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15F573EC1C5DE3EF00C884BF /* ViewController.swift */; };
 		15F573F01C5DE3EF00C884BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15F573EE1C5DE3EF00C884BF /* Main.storyboard */; };
 		15F573F21C5DE3EF00C884BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15F573F11C5DE3EF00C884BF /* Assets.xcassets */; };
 		15F573F51C5DE3EF00C884BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15F573F31C5DE3EF00C884BF /* LaunchScreen.storyboard */; };
-		15F573FD1C5DE41200C884BF /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15F573FC1C5DE41200C884BF /* Datos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -150,7 +150,7 @@
 			files = (
 				15F573ED1C5DE3EF00C884BF /* ViewController.swift in Sources */,
 				15F573EB1C5DE3EF00C884BF /* AppDelegate.swift in Sources */,
-				15F573FD1C5DE41200C884BF /* Datos.swift in Sources */,
+				1517EDA01C5F10FE00101819 /* Datos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
